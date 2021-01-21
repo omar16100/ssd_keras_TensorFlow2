@@ -1,4 +1,4 @@
-This SSD keras implementation is compatible with TensorFlow 2. Tensorflow 1 compatible orginal SSD keras code is here: https://github.com/pierluigiferrari/ssd_keras
+This SSD keras implementation is updated and compatible with TensorFlow 2. Tensorflow 1 compatible orginal SSD keras code is here: https://github.com/pierluigiferrari/ssd_keras
 
 Changes which are completed and verified:
 1. ssd300_training.ipynb and all its dependent files
